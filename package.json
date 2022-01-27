@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mateusbettio.lwc-kyx8viko",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve pgfXQ1OQBlX3ZjFSye3N --open"
+  }
+}
